@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "todo",
+            "connectString": "postgresql://postgres:postgres@localhost:5433/pathway_db"
+        }
+    ]
+}
